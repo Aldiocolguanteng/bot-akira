@@ -172,5 +172,5 @@ function uncache(module = '.') {
     })
 }
 
-start(`./DinataQr.json`)
+start(`./Kirrr.json`)
 .catch(err => console.log(err))
